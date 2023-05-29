@@ -1,0 +1,4 @@
+aa01,Legénypálma,1500,2
+aa02,Rózsa,3000,3
+aa04,pelda1,1000,1
+aa05,pelda2,2000,2
